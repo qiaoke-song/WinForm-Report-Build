@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzRBuild", "EzRBuild.csproj", "{BD7B705A-4746-4003-A1BA-1FBEA42676DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD7B705A-4746-4003-A1BA-1FBEA42676DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD7B705A-4746-4003-A1BA-1FBEA42676DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD7B705A-4746-4003-A1BA-1FBEA42676DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD7B705A-4746-4003-A1BA-1FBEA42676DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3AC000-5BCF-4F8F-8D24-F5DD5591313C}
+	EndGlobalSection
+EndGlobal

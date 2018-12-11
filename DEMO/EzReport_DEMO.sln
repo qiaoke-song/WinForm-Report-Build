@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EzReport_DEMO", "EzReport_DEMO.csproj", "{9A47719B-4D49-4EB8-980B-188809AC35AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A47719B-4D49-4EB8-980B-188809AC35AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A47719B-4D49-4EB8-980B-188809AC35AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A47719B-4D49-4EB8-980B-188809AC35AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A47719B-4D49-4EB8-980B-188809AC35AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61456C61-AFFF-47E6-9938-AC51E67F822E}
+	EndGlobalSection
+EndGlobal
